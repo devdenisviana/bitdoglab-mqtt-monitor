@@ -1,4 +1,4 @@
-# Monitor BitDogLab MQTT PICO W - Botão e Temperatura
+# Monitor IoT MQTT para Raspberry Pi Pico W: Botão e Temperatura
 
 ## Visão Geral
 Este projeto transforma um Raspberry Pi Pico W em um nó IoT capaz de:
