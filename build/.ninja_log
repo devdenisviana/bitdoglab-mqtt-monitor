@@ -5,11 +5,11 @@
 577	670	7748915590989792	E:/ResidenciaDPM/Material classroom/Unidade 2/Unidade2Tarefa2/monitorMQTT2207/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin	3ec2a3d8c931dc4d
 44	274	7748915587010273	pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h	ad9f824944c4f57d
 280	996	7748917392864942	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/lib/tinyusb/src/common/tusb_fifo.c.obj	3bb5b5be4ff44988
-3630	4325	7748917426365112	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/lib/cyw43-driver/src/cyw43_lwip.c.obj	6cf8c839b8298823
 44	274	7748915587010273	E:/ResidenciaDPM/Material classroom/Unidade 2/Unidade2Tarefa2/monitorMQTT2207/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h	ad9f824944c4f57d
+3630	4325	7748917426365112	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/lib/cyw43-driver/src/cyw43_lwip.c.obj	6cf8c839b8298823
 1548	1976	7748915599874843	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/src/rp2_common/pico_bootrom/bootrom.c.obj	17b9a0d73ab490fe
-1822	2084	7748915602620694	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	b6e9dfda24177d41
 984	2355	7748917399905377	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/lib/lwip/src/core/tcp_in.c.obj	67352b4edb59db30
+1822	2084	7748915602620694	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	b6e9dfda24177d41
 237	577	7748915586760201	pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf	db58b67b818cb169
 2417	2931	7748917414231634	CMakeFiles/Tarefa_Unidade_II_MQTT.dir/C_/Users/denis/.pico-sdk/sdk/1.5.1/lib/lwip/src/api/tcpip.c.obj	b17c51af5b5c015d
 671	970	7748915593810904	pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S	65779485bc45e47
